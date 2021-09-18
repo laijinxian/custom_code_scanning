@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "自定义连续扫码",
+  "usingComponents": {
+    "app-scan": "/pages/index/components/appScan",
+    "weixin-scan": "/pages/index/components/wxScan"
+  }
+}
